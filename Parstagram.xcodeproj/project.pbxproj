@@ -19,6 +19,7 @@
 		E954BE8B2603F13000078D47 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E954BE8A2603F13000078D47 /* FeedViewController.swift */; };
 		E954BE9026040A8800078D47 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E954BE8F26040A8800078D47 /* CameraViewController.swift */; };
 		E954BE9E260564EF00078D47 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E954BE9D260564EF00078D47 /* PostCell.swift */; };
+		E954BEA3260D284500078D47 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E954BEA2260D284400078D47 /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		E954BE8A2603F13000078D47 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		E954BE8F26040A8800078D47 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		E954BE9D260564EF00078D47 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		E954BEA2260D284400078D47 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		EFFE3F62A0BF4A1DD260A94F /* Pods-Parstagram.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Parstagram.debug.xcconfig"; path = "Target Support Files/Pods-Parstagram/Pods-Parstagram.debug.xcconfig"; sourceTree = "<group>"; };
 		F24596C23EEB3CCF14DC500A /* Pods-Parstagram.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Parstagram.release.xcconfig"; path = "Target Support Files/Pods-Parstagram/Pods-Parstagram.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -139,6 +141,7 @@
 				E954BE8A2603F13000078D47 /* FeedViewController.swift */,
 				E954BE8F26040A8800078D47 /* CameraViewController.swift */,
 				E954BE9D260564EF00078D47 /* PostCell.swift */,
+				E954BEA2260D284400078D47 /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -341,6 +344,7 @@
 				E954BE8B2603F13000078D47 /* FeedViewController.swift in Sources */,
 				E954BE4B2603EF6600078D47 /* SceneDelegate.swift in Sources */,
 				E954BE9E260564EF00078D47 /* PostCell.swift in Sources */,
+				E954BEA3260D284500078D47 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
